@@ -55,7 +55,7 @@ The classifier evaluates model performance using:
 
 ##  How to Run
 
-1. **Clone the repository**:
+1. Clone the repository:
    git clone [https://github.com/arilakshme-05/email-spam-classifier.git](https://github.com/arilakshme-05/email-spam-classifier.git)
    cd email-spam-classifier
 
